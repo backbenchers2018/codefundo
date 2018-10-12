@@ -1,7 +1,7 @@
 # codefundo
-Natural Disaster , Forst Fires
+Natural Disaster , Forest Fires
 We are creating an Android App that can be used as a Forest Fire predictor 
-Inspiration- Trees , rare-species are most vulnerable to Forest Fires and not many care about them.This App can be used by Forest Department.
+Inspiration- Along with trees many rare sepecies are most vulnerable to Forest Fires and not many care about them.This App can be used by Forest Department.
 
 Working With App
 
@@ -9,7 +9,7 @@ When the Application is opened ,it fetches the location co-ordinates and the Rea
 The map will be displayed to the user predicting the regions where there is chance of Forest Fires.The highly prone regions are indicated by a red color scattered points.Based on this predictions suitable measures can be taken by the nearby Forest Deparments 
 
 Getting Started
-Initially, User has to install the app, and allow access to their location. once installed whenever user opens the app, the app will do the rest of the things to the user
+Initially, User has to install the app, and allow access to their location. once installed whenever user opens the app, the app will guide the user in an interactive process.
 
 Dataset
 For Training our Model we are using dataset created by Paulo Cortez and Anbal Morais (Univ. Minho). It contains 
