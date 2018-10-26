@@ -101,9 +101,9 @@ def doit():
     <head>
     </head>
     <body>
-         <center><h1>Graphical Representation of Predictions</h1><center></br> 
+         <center><h1>Graphical Representation of Predictions</h1> 
          <p>Red-Dot--&gt Burnt Area Prediction Exceeds 5KMsq</p> 
-        <p>Blue-Dot--&gt Burnt Area Prediction Less than 5KMsq</p>
+        <p>Blue-Dot--&gt Burnt Area Prediction Less than 5KMsq</p></center>
 		<img src="data:image/png;base64,{}"/>
         </body></html>""".format(base64.encodebytes(sio.getvalue()).decode()) 
     print(html)
