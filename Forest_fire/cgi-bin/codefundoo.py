@@ -1,7 +1,3 @@
-from flask import Flask
-app = Flask(__name__)
-
-@app.route("/")
 import cgitb
 cgitb.enable()    
 print("Content-Type: text/html;image/jpg\r\n\r\n")
