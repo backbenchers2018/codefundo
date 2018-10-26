@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import cgitb
 cgitb.enable()    
 print("Content-Type: text/html;image/jpg\r\n\r\n")
